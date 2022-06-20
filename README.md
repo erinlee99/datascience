@@ -4,7 +4,7 @@ Ji In (Erin) Lee
 
 erinlee@berkeley.edu
 
-Bachelors's Degree in Data Science (Domain Emphasis in Human Behavior & Psychology)
+Bachelors's Degree in Data Science
 
 Univeristy of California, Berkeley
 
