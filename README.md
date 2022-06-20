@@ -1,4 +1,4 @@
-# datascience
+# Data Science Portfolio
 
 Ji In (Erin) Lee
 
